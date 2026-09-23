@@ -270,7 +270,6 @@ Principais entregas:
 - ícones para pressão arterial, frequência cardíaca, temperatura e dor;
 - notebook de anotações clínicas com salvamento automático.
 
-O link do Figma não foi localizado no projeto. A revisão visual utiliza como referência a identidade já implementada no Clinify.
 
 ## Web Development
 
@@ -359,6 +358,9 @@ Repositório do GitHub
 Deploy no Vercel
 
 - https://clinifylxp.vercel.app/
+
+Ideia inicial no figma(page clinify 2.0):
+- https://www.figma.com/design/5XBp7dz9bmiCKe95phM3xM/Clinify---prototipo?node-id=115-51&p=f&t=z9RDmSVVPniGUVwP-0
 
 ## Uso de Inteligência Artificial
 
