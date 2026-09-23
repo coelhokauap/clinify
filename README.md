@@ -354,7 +354,7 @@ Front Web/
 
 Repositório do GitHub
 
-- https://github.com/anitapalhares/Clinify_1.0
+- https://github.com/coelhokauap/clinify
 
 Deploy no Vercel
 
