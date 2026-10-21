@@ -8,43 +8,46 @@ O Clinify é uma plataforma de apoio à formação médica com estudos, questõe
 
 ## Grupo
 
-| Integrante | RM |
-| --- | --- |
-| Anita Palhares | 571264 |
+| Integrante      | RM     |
+| --------------- | ------ |
+| Anita Palhares  | 571264 |
 | Vitória Kereski | 569438 |
-| Kauã Coelho | 568665 |
-| Carlos Alberto | 571841 |
+| Kauã Coelho     | 568665 |
+| Carlos Alberto  | 571841 |
 
 # Computational Thinking With Python
 
-Esta entrega da Sprint 3 utiliza Python para ler e resumir os dados de estudo e simulação gerados pelo Front Web do Clinify.
+Esta entrega integra os dados exportados pelo Front Web do Clinify com uma análise em Python. O programa lê os arquivos JSON da pasta `Computational Thinking With Python/dados`, resume o uso das funções principais e apresenta os resultados organizados no terminal.
 
 ## Entrega
 
-O programa está concentrado em `main.py` e utiliza somente as bibliotecas padrão `os`, `json` e `datetime`.
+O programa está concentrado em `main.py` e utiliza somente as bibliotecas padrão `os`, `json` e `datetime`. Os testes automatizados usam `pytest`; a aplicação não depende dessa biblioteca para funcionar.
 
 Funcionalidades implementadas:
 
-- listagem de todos os arquivos `.json` presentes na pasta `dados`;
-- escolha do arquivo por número, independentemente do nome;
-- leitura do JSON exportado pelo site e do histórico consolidado;
-- resumo de aluno, interações, estudos e simulados;
-- feedback para arquivo válido ou inválido;
-- encerramento automático após a leitura.
+- lista arquivos `.json` e permite escolher um pelo número;
+- lê exportações individuais e históricos consolidados;
+- contabiliza interações por tipo, ação mais frequente, até cinco telas mais acessadas e dia com mais atividade;
+- resume estudos, simulados, média e maior/menor pontuação válida entre 0 e 100;
+- calcula o período observado, o tempo total e o tempo médio entre cliques em funções principais: simulação, estudos, casos e salvar dados;
+- calcula a média do intervalo antes de cada função;
+- mostra a jornada registrada e a maior pausa entre funções;
+- gera feedback geral com base nos estudos e nas pontuações registradas;
+- apresenta ranking geral de notas entre todos os JSONs da pasta, agrupado por aluno;
+- também mostra ranking dentro de históricos consolidados;
+- valida arquivos e formatos, informa sucesso ou erros de leitura e estrutura;
+- ignora registros inconsistentes e contabiliza os itens ignorados;
+- encerra após apresentar o resultado e não altera os arquivos exportados.
+
+O ranking geral reúne as notas de todos os arquivos e identifica o estudante por ID, e-mail ou nome. Atividades com o mesmo ID são contadas uma vez mesmo se aparecerem em várias exportações. O ranking usa a média das pontuações válidas dos simulados; médias iguais compartilham a mesma posição. Alunos sem notas válidas ficam fora da classificação. O feedback considera médias a partir de 80 como bom desempenho, de 60 a menos de 80 como desempenho em desenvolvimento e abaixo de 60 como necessidade de reforço. Sem notas válidas, o programa informa que não há dados suficientes para avaliar. A leitura de QR Code, login e eventos de navegação não entra no cálculo de tempo. Os tempos representam intervalos entre cliques registrados, não o tempo ativo para concluir uma tarefa. Para medir a duração real de uma tarefa, o Front Web precisa registrar eventos de início e conclusão.
 
 ## Integração com o Front Web
 
-O JavaScript registra no navegador as interações, os módulos de estudo e as simulações concluídas pelo estudante. Ao selecionar **Salvar dados**, o site cria um novo arquivo `clinify_dados_DATA_E_HORA.json`. Os arquivos anteriores são preservados.
+O JavaScript registra no navegador interações, módulos de estudo e simulações concluídas pelo estudante. Ao selecionar **Salvar dados**, o site cria um novo arquivo `clinify_dados_DATA_E_HORA.json`. Os arquivos anteriores são preservados.
 
-O Python procura todos os arquivos `.json` dentro de `Computational Thinking With Python/dados`, permite escolher um deles e apresenta um resumo com:
+O Python procura todos os arquivos `.json` dentro de `Computational Thinking With Python/dados` e permite escolher um para análise. O resumo aparece em quatro seções: **Uso do app**, **Tempo e funções principais**, **Atividades** e **Feedback geral**. Caminhos longos de páginas são apresentados pelo nome do arquivo para facilitar a leitura. A opção `R` no menu calcula o ranking geral usando todos os arquivos válidos da pasta.
 
-- identificação e perfil do usuário;
-- quantidade de interações registradas;
-- módulos de estudo concluídos;
-- simulações concluídas;
-- média das pontuações dos simulados.
-
-A transferência ocorre por arquivo JSON. Não são utilizados API, servidor Python ou banco de dados.
+A integração entre o front-end e a análise ocorre por arquivo JSON, sem API ou banco de dados. O servidor HTTP local indicado abaixo serve apenas os arquivos estáticos do front-end durante a demonstração.
 
 ## Como testar passo a passo
 
@@ -107,34 +110,99 @@ Deve aparecer pelo menos um arquivo terminado em `.json`.
 
 ### 6. Execute o programa Python
 
-Execute:
+Na raiz do projeto, execute:
 
 ```bash
 python3 "Computational Thinking With Python/main.py"
 ```
 
-O programa exibirá uma lista semelhante a esta:
+Escolha o número do arquivo para analisar, digite `R` para montar o ranking geral de todos os arquivos ou `0` para sair. A análise individual encerra automaticamente depois do resumo. Exemplo de saída individual (os valores dependem do JSON selecionado):
 
 ```text
-Arquivos disponíveis na pasta dados:
+CLINIFY | Análise de uso
 
-1. clinify_dados_2026-09-23T19-15-44-078Z.json
-0. Sair
+Arquivo: clinify_dados_2026-10-20T22-02-29-805Z.json
+============================================================
+Exportação individual | Gerada: 20/10/2026 às 22:02
+
+Aluno: Estudante Clinify (estudante)
+
+USO DO APP
+------------------------------------------------------------
+  Interações                    200
+  Por tipo                      clique: 81, formulario: 8, navegacao: 111
+  Ação mais frequente           Clinify | Home (34)
+  Telas mais acessadas:
+  casos.html                    40 acessos
+  home_e.html                   34 acessos
+  perfil.html                   26 acessos
+  simulacao.html                21 acessos
+  estudos.html                  19 acessos
+  Dia com mais atividade        22/09/2026 (129 interações)
+
+TEMPO E FUNÇÕES PRINCIPAIS
+------------------------------------------------------------
+  Período                       21/09/2026 às 23:49:03 até 20/10/2026 às 22:02:29
+  Tempo total                   694h 13min 26s
+  Média entre funções           15h 46min 40s
+  Jornada: Salvar dados → Casos clínicos → Estudos
+           Casos clínicos → Salvar dados → Estudos
+           Simulação clínica → Estudos
+           Simulação clínica → Salvar dados
+           Casos clínicos → Salvar dados → Estudos
+           Simulação clínica → Estudos
+           Simulação clínica → Estudos → Casos clínicos
+           Simulação clínica → Estudos
+           Simulação clínica → Estudos
+           Simulação clínica → Casos clínicos
+           Salvar dados → Casos clínicos → Salvar dados
+  Média antes de cada função:
+  Salvar dados                  1min 30s
+  Casos clínicos                1min 5s
+  Estudos                       2h 16min 1s
+  Simulação clínica             95h 51min 14s
+  Maior pausa                   670h 42min 37s (Casos clínicos → Simulação clínica)
+
+ATIVIDADES
+------------------------------------------------------------
+  Estudos                       0
+  Simulados                     1
+  Média dos simulados           64.0
+  Maior pontuação               64
+  Menor pontuação               64
+
+FEEDBACK GERAL
+------------------------------------------------------------
+  Desempenho em desenvolvimento; revise os temas com menor pontuação.
+============================================================
 ```
 
-Digite o número do arquivo e pressione **Enter**. Para encerrar sem abrir um arquivo, digite `0`.
+Para ver o ranking geral, execute o programa e digite `R` no menu. O resultado mostra a média por aluno, o número de notas válidas e quantos arquivos contribuíram para cada linha. As notas são agrupadas pelo ID do aluno, e-mail ou nome; atividades com o mesmo ID são contadas uma vez entre exportações. Exportações individuais também mostram o feedback daquele estudante. Os tempos e indicadores variam conforme os horários e as atividades capturados em cada exportação. Uma pausa longa entre funções pode incluir tempo sem uso do sistema; ela não representa necessariamente o tempo ativo de uma tarefa. Para validar o fluxo de estudo e simulação, gere uma nova exportação após concluir atividades no Front Web.
 
-### 7. Confira o resultado
+Se o JSON estiver inválido ou o arquivo não puder ser aberto, o programa apresenta uma mensagem de erro controlada e encerra sem modificar os dados. Para conferir o tratamento de erro, teste com uma cópia do JSON e deixe essa cópia inválida; preserve o arquivo original.
 
-Após a escolha, o Python informa que o arquivo foi lido e mostra o resumo dos dados. Ao terminar, aparece a mensagem `Leitura concluída. Programa encerrado.`
+### 7. Execute os testes automatizados
 
-Se o arquivo não for um JSON válido, o programa apresenta o erro e encerra sem alterar ou apagar nenhum dado.
+Os testes usam `pytest`, que não é necessário para executar a aplicação. Caso ainda não esteja instalado, instale-o com:
+
+```bash
+python3 -m pip install pytest
+```
+
+Depois, execute na pasta `Computational Thinking With Python`:
+
+```bash
+python3 -m pytest -q
+```
+
+Os testes usam `assert` para verificar validação de JSON e atividades, tratamento de interações inconsistentes, respostas do menu e ranking entre arquivos, incluindo JSON corrompido e atividades repetidas. As exceções são tratadas no programa com `try/except`; os `assert` verificam nos testes os resultados esperados. Esses testes automatizam o fluxo do terminal e não substituem sessões de usabilidade com estudantes e professores. A suíte atual contém 9 testes.
 
 ## Estrutura
 
 ```text
 Computational Thinking With Python/
 ├── main.py
+├── test_main.py
 └── dados/
 ```
 
@@ -205,10 +273,7 @@ Exemplo de resposta:
 {
   "feedback": "Investigou o histórico e características da queixa. Atenção adequada aos sinais de alerta graves.",
   "ganho_pontos": 18,
-  "novos_criterios": [
-    "anamnese",
-    "sinais de alerta"
-  ]
+  "novos_criterios": ["anamnese", "sinais de alerta"]
 }
 ```
 
