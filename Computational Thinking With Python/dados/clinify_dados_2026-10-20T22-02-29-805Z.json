@@ -1,0 +1,1428 @@
+{
+  "versao": 1,
+  "gerado_em": "2026-10-20T22:02:29.805Z",
+  "usuario": {
+    "id": "12345678900@gmail.com",
+    "nome": "Estudante Clinify",
+    "email": "12345678900@gmail.com",
+    "perfil": "estudante"
+  },
+  "interacoes": [
+    {
+      "id": "interacao-1790034536237-67758",
+      "tipo": "clique",
+      "acao": "Enviar fala",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-09-21T23:48:56.237Z"
+    },
+    {
+      "id": "interacao-1790034536238-56690",
+      "tipo": "formulario",
+      "acao": "formulario",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-09-21T23:48:56.238Z"
+    },
+    {
+      "id": "interacao-1790034536995-97299",
+      "tipo": "clique",
+      "acao": "Enviar fala",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-09-21T23:48:56.996Z"
+    },
+    {
+      "id": "interacao-1790034536997-85807",
+      "tipo": "formulario",
+      "acao": "formulario",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-09-21T23:48:56.997Z"
+    },
+    {
+      "id": "interacao-1790034537625-96119",
+      "tipo": "clique",
+      "acao": "Enviar fala",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-09-21T23:48:57.625Z"
+    },
+    {
+      "id": "interacao-1790034537626-11265",
+      "tipo": "formulario",
+      "acao": "formulario",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-09-21T23:48:57.626Z"
+    },
+    {
+      "id": "interacao-1790034538490-93087",
+      "tipo": "clique",
+      "acao": "Enviar fala",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-09-21T23:48:58.490Z"
+    },
+    {
+      "id": "interacao-1790034543949-15954",
+      "tipo": "clique",
+      "acao": "Salvar dados",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-21T23:49:03.949Z"
+    },
+    {
+      "id": "interacao-1790034623733-98304",
+      "tipo": "clique",
+      "acao": "Salvar dados",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-21T23:50:23.733Z"
+    },
+    {
+      "id": "interacao-1790034703289-17439",
+      "tipo": "clique",
+      "acao": "Salvar dados",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-21T23:51:43.289Z"
+    },
+    {
+      "id": "interacao-1790034737275-73202",
+      "tipo": "clique",
+      "acao": "Salvar dados",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-21T23:52:17.275Z"
+    },
+    {
+      "id": "interacao-1790034773649-21388",
+      "tipo": "clique",
+      "acao": "Salvar dados",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-21T23:52:53.649Z"
+    },
+    {
+      "id": "interacao-1790034776666-7734",
+      "tipo": "clique",
+      "acao": "Salvar dados",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-21T23:52:56.666Z"
+    },
+    {
+      "id": "interacao-1790035159406-35256",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-21T23:59:19.406Z"
+    },
+    {
+      "id": "interacao-1790035163760-68083",
+      "tipo": "clique",
+      "acao": "Salvar dados",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-21T23:59:23.760Z"
+    },
+    {
+      "id": "interacao-1790035198685-29450",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/estudante/home_e.html",
+      "data": "2026-09-21T23:59:58.685Z"
+    },
+    {
+      "id": "interacao-1790035201551-59151",
+      "tipo": "clique",
+      "acao": "Iniciar",
+      "pagina": "/Front%20Web/estudante/home_e.html",
+      "data": "2026-09-22T00:00:01.551Z"
+    },
+    {
+      "id": "interacao-1790035201595-69030",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:00:01.595Z"
+    },
+    {
+      "id": "interacao-1790035202838-30715",
+      "tipo": "clique",
+      "acao": "Pneumologia1 caso",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:00:02.838Z"
+    },
+    {
+      "id": "interacao-1790035204101-21340",
+      "tipo": "clique",
+      "acao": "Iniciar",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:00:04.101Z"
+    },
+    {
+      "id": "interacao-1790035204427-75515",
+      "tipo": "navegacao",
+      "acao": "Clinify | Consulta simulada",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-09-22T00:00:04.427Z"
+    },
+    {
+      "id": "interacao-1790035205769-70083",
+      "tipo": "clique",
+      "acao": "Enviar fala",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-09-22T00:00:05.769Z"
+    },
+    {
+      "id": "interacao-1790035205932-99017",
+      "tipo": "clique",
+      "acao": "Enviar fala",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-09-22T00:00:05.932Z"
+    },
+    {
+      "id": "interacao-1790035209026-55556",
+      "tipo": "navegacao",
+      "acao": "Clinify | Consulta simulada",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-09-22T00:00:09.026Z"
+    },
+    {
+      "id": "interacao-1790035210455-49756",
+      "tipo": "clique",
+      "acao": "Estudos",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:00:10.455Z"
+    },
+    {
+      "id": "interacao-1790035210742-97358",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/estudante/estudos.html",
+      "data": "2026-09-22T00:00:10.742Z"
+    },
+    {
+      "id": "interacao-1790035211394-62896",
+      "tipo": "clique",
+      "acao": "Ver casos desta matéria →",
+      "pagina": "/Front%20Web/estudante/estudos.html",
+      "data": "2026-09-22T00:00:11.394Z"
+    },
+    {
+      "id": "interacao-1790035211559-71204",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:00:11.559Z"
+    },
+    {
+      "id": "interacao-1790035212369-31296",
+      "tipo": "clique",
+      "acao": "Ler QR Code",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:00:12.369Z"
+    },
+    {
+      "id": "interacao-1790035215332-288",
+      "tipo": "clique",
+      "acao": "Salvar dados",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:00:15.332Z"
+    },
+    {
+      "id": "interacao-1790035740081-73152",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/estudante/estudos.html",
+      "data": "2026-09-22T00:09:00.081Z"
+    },
+    {
+      "id": "interacao-1790035741122-74686",
+      "tipo": "clique",
+      "acao": "Desempenho",
+      "pagina": "/Front%20Web/estudante/estudos.html",
+      "data": "2026-09-22T00:09:01.122Z"
+    },
+    {
+      "id": "interacao-1790035741319-95866",
+      "tipo": "navegacao",
+      "acao": "Clinify | Desempenho",
+      "pagina": "/Front%20Web/estudante/desempenho.html",
+      "data": "2026-09-22T00:09:01.319Z"
+    },
+    {
+      "id": "interacao-1790035741714-66830",
+      "tipo": "clique",
+      "acao": "Meu perfil",
+      "pagina": "/Front%20Web/estudante/desempenho.html",
+      "data": "2026-09-22T00:09:01.714Z"
+    },
+    {
+      "id": "interacao-1790035741889-66582",
+      "tipo": "navegacao",
+      "acao": "Clinify | Perfil do estudante",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:09:01.889Z"
+    },
+    {
+      "id": "interacao-1790035742940-21934",
+      "tipo": "clique",
+      "acao": "Salvar alterações",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:09:02.940Z"
+    },
+    {
+      "id": "interacao-1790035742941-99710",
+      "tipo": "formulario",
+      "acao": "formulario",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:09:02.941Z"
+    },
+    {
+      "id": "interacao-1790035744061-68673",
+      "tipo": "clique",
+      "acao": "Salvar dados",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:09:04.061Z"
+    },
+    {
+      "id": "interacao-1790035799852-76744",
+      "tipo": "navegacao",
+      "acao": "Clinify | Perfil do estudante",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:09:59.852Z"
+    },
+    {
+      "id": "interacao-1790035815878-8588",
+      "tipo": "navegacao",
+      "acao": "Clinify | Perfil do estudante",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:10:15.878Z"
+    },
+    {
+      "id": "interacao-1790035821299-26167",
+      "tipo": "navegacao",
+      "acao": "Clinify | Perfil do estudante",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:10:21.299Z"
+    },
+    {
+      "id": "interacao-1790035830066-5306",
+      "tipo": "navegacao",
+      "acao": "Clinify | Perfil do estudante",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:10:30.066Z"
+    },
+    {
+      "id": "interacao-1790035843722-22342",
+      "tipo": "navegacao",
+      "acao": "Clinify | Perfil do estudante",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:10:43.722Z"
+    },
+    {
+      "id": "interacao-1790035856111-82864",
+      "tipo": "navegacao",
+      "acao": "Clinify | Perfil do estudante",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:10:56.111Z"
+    },
+    {
+      "id": "interacao-1790035868236-5582",
+      "tipo": "navegacao",
+      "acao": "Clinify | Perfil do estudante",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:11:08.236Z"
+    },
+    {
+      "id": "interacao-1790035869644-48656",
+      "tipo": "navegacao",
+      "acao": "Clinify | Perfil do estudante",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:11:09.644Z"
+    },
+    {
+      "id": "interacao-1790035872268-48003",
+      "tipo": "navegacao",
+      "acao": "Clinify | Perfil do estudante",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:11:12.268Z"
+    },
+    {
+      "id": "interacao-1790035872562-79409",
+      "tipo": "navegacao",
+      "acao": "Clinify | Perfil do estudante",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:11:12.562Z"
+    },
+    {
+      "id": "interacao-1790035883586-93530",
+      "tipo": "navegacao",
+      "acao": "Clinify | Perfil do estudante",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:11:23.586Z"
+    },
+    {
+      "id": "interacao-1790035896009-41786",
+      "tipo": "navegacao",
+      "acao": "Clinify | Perfil do estudante",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:11:36.009Z"
+    },
+    {
+      "id": "interacao-1790035947655-17926",
+      "tipo": "navegacao",
+      "acao": "Clinify | Perfil do estudante",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:12:27.655Z"
+    },
+    {
+      "id": "interacao-1790035948656-91262",
+      "tipo": "clique",
+      "acao": "Estudos",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-09-22T00:12:28.656Z"
+    },
+    {
+      "id": "interacao-1790035948708-74203",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/estudante/estudos.html",
+      "data": "2026-09-22T00:12:28.708Z"
+    },
+    {
+      "id": "interacao-1790035949269-34231",
+      "tipo": "clique",
+      "acao": "Estudar Cardiologia",
+      "pagina": "/Front%20Web/estudante/estudos.html",
+      "data": "2026-09-22T00:12:29.269Z"
+    },
+    {
+      "id": "interacao-1790035949598-90270",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/estudante/cardiologia.html",
+      "data": "2026-09-22T00:12:29.598Z"
+    },
+    {
+      "id": "interacao-1790035953871-76970",
+      "tipo": "clique",
+      "acao": "Simulação clínica",
+      "pagina": "/Front%20Web/estudante/cardiologia.html",
+      "data": "2026-09-22T00:12:33.871Z"
+    },
+    {
+      "id": "interacao-1790035954168-78238",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:12:34.168Z"
+    },
+    {
+      "id": "interacao-1790035955335-86015",
+      "tipo": "clique",
+      "acao": "Início",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:12:35.335Z"
+    },
+    {
+      "id": "interacao-1790035955517-94203",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/estudante/home_e.html",
+      "data": "2026-09-22T00:12:35.517Z"
+    },
+    {
+      "id": "interacao-1790035956253-9117",
+      "tipo": "clique",
+      "acao": "Desempenho",
+      "pagina": "/Front%20Web/estudante/home_e.html",
+      "data": "2026-09-22T00:12:36.253Z"
+    },
+    {
+      "id": "interacao-1790035956310-81431",
+      "tipo": "navegacao",
+      "acao": "Clinify | Desempenho",
+      "pagina": "/Front%20Web/estudante/desempenho.html",
+      "data": "2026-09-22T00:12:36.310Z"
+    },
+    {
+      "id": "interacao-1790035957493-61885",
+      "tipo": "clique",
+      "acao": "Estudos",
+      "pagina": "/Front%20Web/estudante/desempenho.html",
+      "data": "2026-09-22T00:12:37.493Z"
+    },
+    {
+      "id": "interacao-1790035957548-47425",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/estudante/estudos.html",
+      "data": "2026-09-22T00:12:37.548Z"
+    },
+    {
+      "id": "interacao-1790035958319-88683",
+      "tipo": "clique",
+      "acao": "Estudar Cardiologia",
+      "pagina": "/Front%20Web/estudante/estudos.html",
+      "data": "2026-09-22T00:12:38.319Z"
+    },
+    {
+      "id": "interacao-1790035958371-75778",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/estudante/cardiologia.html",
+      "data": "2026-09-22T00:12:38.371Z"
+    },
+    {
+      "id": "interacao-1790035958904-15488",
+      "tipo": "clique",
+      "acao": "Simulação clínica",
+      "pagina": "/Front%20Web/estudante/cardiologia.html",
+      "data": "2026-09-22T00:12:38.904Z"
+    },
+    {
+      "id": "interacao-1790035958947-56319",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:12:38.947Z"
+    },
+    {
+      "id": "interacao-1790035960426-70409",
+      "tipo": "clique",
+      "acao": "Salvar dados",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:12:40.426Z"
+    },
+    {
+      "id": "interacao-1790035963441-84766",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:12:43.441Z"
+    },
+    {
+      "id": "interacao-1790035967204-79356",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:12:47.204Z"
+    },
+    {
+      "id": "interacao-1790035974660-47271",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:12:54.660Z"
+    },
+    {
+      "id": "interacao-1790036206572-16480",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:16:46.572Z"
+    },
+    {
+      "id": "interacao-1790036427364-34526",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:20:27.364Z"
+    },
+    {
+      "id": "interacao-1790036429051-99642",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:20:29.051Z"
+    },
+    {
+      "id": "interacao-1790036431881-70767",
+      "tipo": "clique",
+      "acao": "Iniciar",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:20:31.881Z"
+    },
+    {
+      "id": "interacao-1790036432105-39895",
+      "tipo": "navegacao",
+      "acao": "Clinify | Consulta simulada",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-09-22T00:20:32.105Z"
+    },
+    {
+      "id": "interacao-1790036433853-16809",
+      "tipo": "clique",
+      "acao": "Pneumologia1 caso",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:20:33.853Z"
+    },
+    {
+      "id": "interacao-1790036435664-59093",
+      "tipo": "clique",
+      "acao": "Desempenho",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-09-22T00:20:35.664Z"
+    },
+    {
+      "id": "interacao-1790036436000-98370",
+      "tipo": "navegacao",
+      "acao": "Clinify | Desempenho",
+      "pagina": "/Front%20Web/estudante/desempenho.html",
+      "data": "2026-09-22T00:20:36.000Z"
+    },
+    {
+      "id": "interacao-1790036437196-80388",
+      "tipo": "clique",
+      "acao": "Início",
+      "pagina": "/Front%20Web/estudante/desempenho.html",
+      "data": "2026-09-22T00:20:37.196Z"
+    },
+    {
+      "id": "interacao-1790036437363-27994",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/estudante/home_e.html",
+      "data": "2026-09-22T00:20:37.363Z"
+    },
+    {
+      "id": "interacao-1790036438742-49905",
+      "tipo": "clique",
+      "acao": "Salvar dados",
+      "pagina": "/Front%20Web/estudante/home_e.html",
+      "data": "2026-09-22T00:20:38.742Z"
+    },
+    {
+      "id": "interacao-1790117548662-93877",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T22:52:28.662Z"
+    },
+    {
+      "id": "interacao-1790117668117-41936",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T22:54:28.117Z"
+    },
+    {
+      "id": "interacao-1790117681180-41891",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T22:54:41.180Z"
+    },
+    {
+      "id": "interacao-1790117681539-98551",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T22:54:41.539Z"
+    },
+    {
+      "id": "interacao-1790117719347-52772",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T22:55:19.347Z"
+    },
+    {
+      "id": "interacao-1790117719700-77462",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T22:55:19.700Z"
+    },
+    {
+      "id": "interacao-1790117724813-65754",
+      "tipo": "clique",
+      "acao": "Estudos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T22:55:24.813Z"
+    },
+    {
+      "id": "interacao-1790117724864-50520",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T22:55:24.864Z"
+    },
+    {
+      "id": "interacao-1790117726538-90856",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T22:55:26.538Z"
+    },
+    {
+      "id": "interacao-1790117727045-68882",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T22:55:27.045Z"
+    },
+    {
+      "id": "interacao-1790117742547-32813",
+      "tipo": "clique",
+      "acao": "Início",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T22:55:42.547Z"
+    },
+    {
+      "id": "interacao-1790117742615-90788",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T22:55:42.615Z"
+    },
+    {
+      "id": "interacao-1790117755939-914",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T22:55:55.939Z"
+    },
+    {
+      "id": "interacao-1790117760473-24239",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T22:56:00.473Z"
+    },
+    {
+      "id": "interacao-1790117780558-73654",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T22:56:20.558Z"
+    },
+    {
+      "id": "interacao-1790117832313-67519",
+      "tipo": "clique",
+      "acao": "Estudos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T22:57:12.313Z"
+    },
+    {
+      "id": "interacao-1790117832375-15259",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T22:57:12.375Z"
+    },
+    {
+      "id": "interacao-1790117834204-16655",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T22:57:14.204Z"
+    },
+    {
+      "id": "interacao-1790118073679-66206",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T23:01:13.679Z"
+    },
+    {
+      "id": "interacao-1790118074516-69300",
+      "tipo": "clique",
+      "acao": "Início",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T23:01:14.516Z"
+    },
+    {
+      "id": "interacao-1790118074572-6547",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:01:14.572Z"
+    },
+    {
+      "id": "interacao-1790118084829-32930",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:01:24.829Z"
+    },
+    {
+      "id": "interacao-1790118105824-7326",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:01:45.824Z"
+    },
+    {
+      "id": "interacao-1790118107086-81634",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:01:47.086Z"
+    },
+    {
+      "id": "interacao-1790118107274-34505",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:01:47.274Z"
+    },
+    {
+      "id": "interacao-1790118113189-65721",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:01:53.189Z"
+    },
+    {
+      "id": "interacao-1790118113478-86608",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:01:53.478Z"
+    },
+    {
+      "id": "interacao-1790118118124-47366",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:01:58.124Z"
+    },
+    {
+      "id": "interacao-1790118119609-7661",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:01:59.609Z"
+    },
+    {
+      "id": "interacao-1790118142233-39820",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:02:22.233Z"
+    },
+    {
+      "id": "interacao-1790118144323-69587",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:02:24.323Z"
+    },
+    {
+      "id": "interacao-1790118146495-38710",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:02:26.495Z"
+    },
+    {
+      "id": "interacao-1790118146874-59030",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:02:26.874Z"
+    },
+    {
+      "id": "interacao-1790118147188-80277",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:02:27.188Z"
+    },
+    {
+      "id": "interacao-1790118155758-44630",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:02:35.758Z"
+    },
+    {
+      "id": "interacao-1790118159165-92378",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:02:39.165Z"
+    },
+    {
+      "id": "interacao-1790118253408-36584",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:04:13.408Z"
+    },
+    {
+      "id": "interacao-1790118400473-18553",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:06:40.473Z"
+    },
+    {
+      "id": "interacao-1790118577822-6804",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:09:37.822Z"
+    },
+    {
+      "id": "interacao-1790118583762-87953",
+      "tipo": "clique",
+      "acao": "Simulação clínica",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:09:43.762Z"
+    },
+    {
+      "id": "interacao-1790118583837-81646",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/casos.html",
+      "data": "2026-09-22T23:09:43.837Z"
+    },
+    {
+      "id": "interacao-1790118584940-47402",
+      "tipo": "clique",
+      "acao": "Estudos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/casos.html",
+      "data": "2026-09-22T23:09:44.940Z"
+    },
+    {
+      "id": "interacao-1790118585002-86529",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T23:09:45.002Z"
+    },
+    {
+      "id": "interacao-1790118591237-53015",
+      "tipo": "clique",
+      "acao": "Conteúdo →",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T23:09:51.237Z"
+    },
+    {
+      "id": "interacao-1790118591298-92772",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/cardiologia.html",
+      "data": "2026-09-22T23:09:51.298Z"
+    },
+    {
+      "id": "interacao-1790118769376-18761",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T23:12:49.376Z"
+    },
+    {
+      "id": "interacao-1790118770380-52734",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T23:12:50.380Z"
+    },
+    {
+      "id": "interacao-1790118772357-30884",
+      "tipo": "clique",
+      "acao": "Início",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T23:12:52.357Z"
+    },
+    {
+      "id": "interacao-1790118772748-54813",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:12:52.748Z"
+    },
+    {
+      "id": "interacao-1790118776100-25884",
+      "tipo": "clique",
+      "acao": "Simulação clínica",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/home_e.html",
+      "data": "2026-09-22T23:12:56.100Z"
+    },
+    {
+      "id": "interacao-1790118776162-26310",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/casos.html",
+      "data": "2026-09-22T23:12:56.162Z"
+    },
+    {
+      "id": "interacao-1790118777957-61454",
+      "tipo": "clique",
+      "acao": "Estudos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/casos.html",
+      "data": "2026-09-22T23:12:57.957Z"
+    },
+    {
+      "id": "interacao-1790118778013-43395",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T23:12:58.013Z"
+    },
+    {
+      "id": "interacao-1790118779100-96671",
+      "tipo": "clique",
+      "acao": "Ver casos desta matéria →",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T23:12:59.100Z"
+    },
+    {
+      "id": "interacao-1790118779149-99921",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/casos.html",
+      "data": "2026-09-22T23:12:59.149Z"
+    },
+    {
+      "id": "interacao-1790118782061-92593",
+      "tipo": "clique",
+      "acao": "Ver casos desta matéria →",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T23:13:02.061Z"
+    },
+    {
+      "id": "interacao-1790118782118-42665",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/casos.html",
+      "data": "2026-09-22T23:13:02.118Z"
+    },
+    {
+      "id": "interacao-1790118850759-54008",
+      "tipo": "clique",
+      "acao": "Estudar Anatomia",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T23:14:10.759Z"
+    },
+    {
+      "id": "interacao-1790118850820-24084",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/cardiologia.html",
+      "data": "2026-09-22T23:14:10.820Z"
+    },
+    {
+      "id": "interacao-1790119153541-87733",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T23:19:13.541Z"
+    },
+    {
+      "id": "interacao-1790119154604-78425",
+      "tipo": "clique",
+      "acao": "Ver casos desta matéria →",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/estudos.html",
+      "data": "2026-09-22T23:19:14.604Z"
+    },
+    {
+      "id": "interacao-1790119154650-80987",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/casos.html",
+      "data": "2026-09-22T23:19:14.650Z"
+    },
+    {
+      "id": "interacao-1790119156379-84927",
+      "tipo": "clique",
+      "acao": "Anatomia2 casos",
+      "pagina": "/Front%20Web/clinify-front-web/estudante/casos.html",
+      "data": "2026-09-22T23:19:16.379Z"
+    },
+    {
+      "id": "interacao-1790190792787-42555",
+      "tipo": "navegacao",
+      "acao": "Clinify | Login",
+      "pagina": "/Front%20Web/clinify-front-web/index.html",
+      "data": "2026-09-23T19:13:12.787Z"
+    },
+    {
+      "id": "interacao-1790190809344-68106",
+      "tipo": "navegacao",
+      "acao": "Clinify | Login",
+      "pagina": "/Front%20Web/clinify-front-web/index.html",
+      "data": "2026-09-23T19:13:29.344Z"
+    },
+    {
+      "id": "interacao-1790193694165-71159",
+      "tipo": "navegacao",
+      "acao": "Clinify | Login",
+      "pagina": "/Front%20Web/clinify-front-web/index.html",
+      "data": "2026-09-23T20:01:34.165Z"
+    },
+    {
+      "id": "interacao-1790194914630-55250",
+      "tipo": "navegacao",
+      "acao": "Clinify | Login",
+      "pagina": "/Front%20Web/clinify-front-web/index.html",
+      "data": "2026-09-23T20:21:54.630Z"
+    },
+    {
+      "id": "interacao-1790195084384-42427",
+      "tipo": "navegacao",
+      "acao": "Clinify | Login",
+      "pagina": "/Front%20Web/clinify-front-web/index.html",
+      "data": "2026-09-23T20:24:44.384Z"
+    },
+    {
+      "id": "interacao-1790278648599-13919",
+      "tipo": "navegacao",
+      "acao": "Clinify | Login",
+      "pagina": "/Front%20Web/clinify-front-web/index.html",
+      "data": "2026-09-24T19:37:28.599Z"
+    },
+    {
+      "id": "interacao-1790286328103-83836",
+      "tipo": "navegacao",
+      "acao": "Clinify | Login",
+      "pagina": "/Front%20Web/clinify-front-web/index.html",
+      "data": "2026-09-24T21:45:28.103Z"
+    },
+    {
+      "id": "interacao-1790730348638-39920",
+      "tipo": "navegacao",
+      "acao": "Clinify | Login",
+      "pagina": "/Front%20Web/index.html",
+      "data": "2026-09-30T01:05:48.638Z"
+    },
+    {
+      "id": "interacao-1792533663558-83126",
+      "tipo": "navegacao",
+      "acao": "Clinify | Login",
+      "pagina": "/Front%20Web/index.html",
+      "data": "2026-10-20T22:01:03.558Z"
+    },
+    {
+      "id": "interacao-1792533708918-61266",
+      "tipo": "clique",
+      "acao": "Entrar",
+      "pagina": "/Front%20Web/index.html",
+      "data": "2026-10-20T22:01:48.918Z"
+    },
+    {
+      "id": "interacao-1792533708919-93496",
+      "tipo": "formulario",
+      "acao": "loginForm",
+      "pagina": "/Front%20Web/index.html",
+      "data": "2026-10-20T22:01:48.919Z"
+    },
+    {
+      "id": "interacao-1792533708982-70305",
+      "tipo": "navegacao",
+      "acao": "Clinify | Home",
+      "pagina": "/Front%20Web/estudante/home_e.html",
+      "data": "2026-10-20T22:01:48.982Z"
+    },
+    {
+      "id": "interacao-1792533712243-52316",
+      "tipo": "clique",
+      "acao": "Meu perfil",
+      "pagina": "/Front%20Web/estudante/home_e.html",
+      "data": "2026-10-20T22:01:52.243Z"
+    },
+    {
+      "id": "interacao-1792533712295-99975",
+      "tipo": "navegacao",
+      "acao": "Clinify | Perfil do estudante",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-10-20T22:01:52.295Z"
+    },
+    {
+      "id": "interacao-1792533713031-42065",
+      "tipo": "clique",
+      "acao": "Desempenho",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-10-20T22:01:53.031Z"
+    },
+    {
+      "id": "interacao-1792533713079-12707",
+      "tipo": "navegacao",
+      "acao": "Clinify | Desempenho",
+      "pagina": "/Front%20Web/estudante/desempenho.html",
+      "data": "2026-10-20T22:01:53.079Z"
+    },
+    {
+      "id": "interacao-1792533713185-47222",
+      "tipo": "clique",
+      "acao": "Desempenho",
+      "pagina": "/Front%20Web/estudante/desempenho.html",
+      "data": "2026-10-20T22:01:53.185Z"
+    },
+    {
+      "id": "interacao-1792533713216-65952",
+      "tipo": "navegacao",
+      "acao": "Clinify | Desempenho",
+      "pagina": "/Front%20Web/estudante/desempenho.html",
+      "data": "2026-10-20T22:01:53.216Z"
+    },
+    {
+      "id": "interacao-1792533713719-88481",
+      "tipo": "clique",
+      "acao": "Simulação clínica",
+      "pagina": "/Front%20Web/estudante/desempenho.html",
+      "data": "2026-10-20T22:01:53.719Z"
+    },
+    {
+      "id": "interacao-1792533713787-54347",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-10-20T22:01:53.787Z"
+    },
+    {
+      "id": "interacao-1792533714361-7495",
+      "tipo": "clique",
+      "acao": "Estudos",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-10-20T22:01:54.361Z"
+    },
+    {
+      "id": "interacao-1792533714412-63824",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/estudante/estudos.html",
+      "data": "2026-10-20T22:01:54.412Z"
+    },
+    {
+      "id": "interacao-1792533714670-3551",
+      "tipo": "clique",
+      "acao": "Estudos",
+      "pagina": "/Front%20Web/estudante/estudos.html",
+      "data": "2026-10-20T22:01:54.670Z"
+    },
+    {
+      "id": "interacao-1792533714703-31793",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/estudante/estudos.html",
+      "data": "2026-10-20T22:01:54.703Z"
+    },
+    {
+      "id": "interacao-1792533715186-19992",
+      "tipo": "clique",
+      "acao": "Simulação clínica",
+      "pagina": "/Front%20Web/estudante/estudos.html",
+      "data": "2026-10-20T22:01:55.186Z"
+    },
+    {
+      "id": "interacao-1792533715234-67633",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-10-20T22:01:55.234Z"
+    },
+    {
+      "id": "interacao-1792533715710-16091",
+      "tipo": "clique",
+      "acao": "Estudos",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-10-20T22:01:55.710Z"
+    },
+    {
+      "id": "interacao-1792533715756-69744",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/estudante/estudos.html",
+      "data": "2026-10-20T22:01:55.756Z"
+    },
+    {
+      "id": "interacao-1792533716172-94869",
+      "tipo": "clique",
+      "acao": "Estudar Cardiologia",
+      "pagina": "/Front%20Web/estudante/estudos.html",
+      "data": "2026-10-20T22:01:56.172Z"
+    },
+    {
+      "id": "interacao-1792533716221-25202",
+      "tipo": "navegacao",
+      "acao": "Clinify | Estudos",
+      "pagina": "/Front%20Web/estudante/cardiologia.html",
+      "data": "2026-10-20T22:01:56.221Z"
+    },
+    {
+      "id": "interacao-1792533722015-49580",
+      "tipo": "clique",
+      "acao": "Finalizar questões",
+      "pagina": "/Front%20Web/estudante/cardiologia.html",
+      "data": "2026-10-20T22:02:02.015Z"
+    },
+    {
+      "id": "interacao-1792533723832-83357",
+      "tipo": "clique",
+      "acao": "Simulação clínica",
+      "pagina": "/Front%20Web/estudante/cardiologia.html",
+      "data": "2026-10-20T22:02:03.832Z"
+    },
+    {
+      "id": "interacao-1792533723877-61201",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-10-20T22:02:03.877Z"
+    },
+    {
+      "id": "interacao-1792533726569-51805",
+      "tipo": "clique",
+      "acao": "Anatomia2 casos",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-10-20T22:02:06.569Z"
+    },
+    {
+      "id": "interacao-1792533726975-68858",
+      "tipo": "clique",
+      "acao": "Pneumologia1 caso",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-10-20T22:02:06.975Z"
+    },
+    {
+      "id": "interacao-1792533727486-9147",
+      "tipo": "clique",
+      "acao": "Cardiologia1 caso",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-10-20T22:02:07.486Z"
+    },
+    {
+      "id": "interacao-1792533728903-76237",
+      "tipo": "clique",
+      "acao": "Limpar filtros",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-10-20T22:02:08.903Z"
+    },
+    {
+      "id": "interacao-1792533730445-48632",
+      "tipo": "clique",
+      "acao": "Iniciar",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-10-20T22:02:10.445Z"
+    },
+    {
+      "id": "interacao-1792533730507-41915",
+      "tipo": "navegacao",
+      "acao": "Clinify | Consulta simulada",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-10-20T22:02:10.507Z"
+    },
+    {
+      "id": "interacao-1792533734563-73878",
+      "tipo": "clique",
+      "acao": "Enviar fala",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-10-20T22:02:14.563Z"
+    },
+    {
+      "id": "interacao-1792533734566-46933",
+      "tipo": "formulario",
+      "acao": "formulario",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-10-20T22:02:14.566Z"
+    },
+    {
+      "id": "interacao-1792533736947-20605",
+      "tipo": "clique",
+      "acao": "Enviar fala",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-10-20T22:02:16.947Z"
+    },
+    {
+      "id": "interacao-1792533736948-68127",
+      "tipo": "formulario",
+      "acao": "formulario",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-10-20T22:02:16.948Z"
+    },
+    {
+      "id": "interacao-1792533740338-47552",
+      "tipo": "clique",
+      "acao": "Enviar fala",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-10-20T22:02:20.338Z"
+    },
+    {
+      "id": "interacao-1792533741141-46824",
+      "tipo": "clique",
+      "acao": "Finalizar caso",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-10-20T22:02:21.141Z"
+    },
+    {
+      "id": "interacao-1792533742142-50781",
+      "tipo": "clique",
+      "acao": "Finalizar caso",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-10-20T22:02:22.142Z"
+    },
+    {
+      "id": "interacao-1792533743946-20289",
+      "tipo": "clique",
+      "acao": "Voltar aos casos",
+      "pagina": "/Front%20Web/estudante/simulacao.html",
+      "data": "2026-10-20T22:02:23.946Z"
+    },
+    {
+      "id": "interacao-1792533744007-4567",
+      "tipo": "navegacao",
+      "acao": "Clinify | Simulação Clínica",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-10-20T22:02:24.007Z"
+    },
+    {
+      "id": "interacao-1792533745423-50660",
+      "tipo": "clique",
+      "acao": "Meu perfil",
+      "pagina": "/Front%20Web/estudante/casos.html",
+      "data": "2026-10-20T22:02:25.423Z"
+    },
+    {
+      "id": "interacao-1792533745468-62006",
+      "tipo": "navegacao",
+      "acao": "Clinify | Perfil do estudante",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-10-20T22:02:25.468Z"
+    },
+    {
+      "id": "interacao-1792533747102-11254",
+      "tipo": "clique",
+      "acao": "Salvar alterações",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-10-20T22:02:27.102Z"
+    },
+    {
+      "id": "interacao-1792533747103-5647",
+      "tipo": "formulario",
+      "acao": "formulario",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-10-20T22:02:27.103Z"
+    },
+    {
+      "id": "interacao-1792533748098-8627",
+      "tipo": "clique",
+      "acao": "Pulso clínicoConclua 1 casoUsar no perfil",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-10-20T22:02:28.098Z"
+    },
+    {
+      "id": "interacao-1792533748514-66634",
+      "tipo": "clique",
+      "acao": "Primeiro passoDisponível desde o inícioUsar no perfil",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-10-20T22:02:28.514Z"
+    },
+    {
+      "id": "interacao-1792533749804-85830",
+      "tipo": "clique",
+      "acao": "Salvar dados",
+      "pagina": "/Front%20Web/estudante/perfil.html",
+      "data": "2026-10-20T22:02:29.804Z"
+    }
+  ],
+  "atividades": [
+    {
+      "id": "simulado-b12120d2-2ac0-4058-9d9c-9e8e80c6d75a",
+      "tipo": "simulado",
+      "recurso": "cefaleia",
+      "titulo": "Cefaleia intensa inédita",
+      "estado": "concluida",
+      "concluida_em": "2026-10-20T22:02:22.141Z",
+      "duracao_segundos": 11,
+      "pontuacao": 64,
+      "detalhes": {
+        "respostas": 2,
+        "criterios": []
+      }
+    }
+  ]
+}
